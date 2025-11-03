@@ -45,7 +45,7 @@ public class Utility {
         }
     }
 
-    // 🕒 Optional: wait helper for demo/testing
+    // Optional: wait helper for demo/testing
     public static void sleep(int seconds) {
         try {
             Thread.sleep(seconds * 1000L);
