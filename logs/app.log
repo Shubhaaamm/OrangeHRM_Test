@@ -1,0 +1,35 @@
+2025-11-03 23:34:04 INFO  Log:10 - Starting Login and Logout test
+2025-11-03 23:34:04 INFO  Log:10 - Logged in successfully
+2025-11-03 23:34:08 INFO  Log:10 - Logged out successfully
+2025-11-03 23:34:16 INFO  Log:10 - Starting Add Employee test
+2025-11-03 23:34:23 INFO  Log:10 - Employee added successfully
+2025-11-03 23:57:58 INFO  Log:10 - Starting Login and Logout test
+2025-11-03 23:57:59 INFO  Log:10 - Logged in successfully
+2025-11-03 23:58:03 INFO  Log:10 - Logged out successfully
+2025-11-03 23:58:11 INFO  Log:10 - Starting Add Employee test
+2025-11-03 23:58:19 INFO  Log:10 - Employee added successfully
+2025-11-04 00:01:47 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:01:49 INFO  Log:10 - Logged in successfully
+2025-11-04 00:01:54 INFO  Log:10 - Logged out successfully
+2025-11-04 00:02:01 INFO  Log:10 - Starting Add Employee test
+2025-11-04 00:02:08 INFO  Log:10 - Employee added successfully
+2025-11-04 00:05:20 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:05:21 INFO  Log:10 - Logged in successfully
+2025-11-04 00:05:26 INFO  Log:10 - Logged out successfully
+2025-11-04 00:05:34 INFO  Log:10 - Starting Add Employee test
+2025-11-04 00:05:41 INFO  Log:10 - Employee added successfully
+2025-11-04 00:22:03 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:22:04 INFO  Log:10 - Logged in successfully
+2025-11-04 00:22:08 INFO  Log:10 - Logged out successfully
+2025-11-04 00:22:12 INFO  Log:10 - Starting Add Employee test
+2025-11-04 00:23:51 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:24:54 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:24:55 INFO  Log:10 - Logged in successfully
+2025-11-04 00:25:00 INFO  Log:10 - Logged out successfully
+2025-11-04 00:25:06 INFO  Log:10 - Starting Add Employee test
+2025-11-04 00:25:13 INFO  Log:10 - Employee added successfully
+2025-11-04 00:28:41 INFO  Log:10 - Starting Login and Logout test
+2025-11-04 00:28:42 INFO  Log:10 - Logged in successfully
+2025-11-04 00:28:43 INFO  Utility:42 -  Screenshot captured: D:\SeleniumTesting\OrangeHRM_BasicFramework/screenshots/testLoginLogout_20251104_002843.png
+2025-11-04 00:28:52 INFO  Log:10 - Starting Add Employee test
+2025-11-04 00:28:52 INFO  Utility:42 -  Screenshot captured: D:\SeleniumTesting\OrangeHRM_BasicFramework/screenshots/testAddEmployee_20251104_002852.png
