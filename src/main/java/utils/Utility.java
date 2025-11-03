@@ -16,7 +16,7 @@ public class Utility {
 
     private static final Logger logger = LogManager.getLogger(Utility.class);
 
-    // 📸 Take a screenshot and save it under /screenshots with timestamp
+    // will Take a screenshot and save it under /screenshots with timestamp
     public static void takeScreenshot(WebDriver driver, String testName) {
         if (driver == null) {
             logger.error("Driver is null, cannot capture screenshot for: " + testName);
